@@ -2,6 +2,8 @@
 Sanjay Singh
 san.singhsanjay@gmail.com
 May-2021
+Run this to compile this program:
+g++ opencv_basic.cpp -std=c++11 `pkg-config --cflags --libs opencv` 
 */
 
 // libraries
