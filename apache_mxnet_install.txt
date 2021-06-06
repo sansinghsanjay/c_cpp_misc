@@ -1,5 +1,6 @@
 # Run the following command to install the dependencies of Apache MXNet:
 	$ sudo apt-get install -y build-essential git ninja-build ccache libopenblas-dev libopencv-dev cmake
+	Also install gfortran (it is optional but better to have).
 # Visit the following page:
 	https://mxnet.apache.org/versions/1.8.0/get_started/?
 	> Click on the word hyperlink word "here" given in sentence "The signed source releases are available here"
